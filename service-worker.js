@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Viet-Sign-Language-Detection-Numbers/precache-manifest.7ad55285e94984fc6ea4c89106826177.js"
+  "/Viet-Sign-Language-Detection-Numbers/precache-manifest.29813f34e5f6472a53a23279eca942cc.js"
 );
 
 self.addEventListener('message', (event) => {

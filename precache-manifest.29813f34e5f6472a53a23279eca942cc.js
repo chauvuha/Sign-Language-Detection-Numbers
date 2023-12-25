@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0086d196b2a6a430b8605e9c1c97e07",
+    "revision": "27f5fd80627c625832c1798ac4322089",
     "url": "/Viet-Sign-Language-Detection-Numbers/index.html"
   },
   {
