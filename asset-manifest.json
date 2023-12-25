@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Viet-Sign-Language-Detection-Numbers/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Viet-Sign-Language-Detection-Numbers/static/js/main.07e1f2f5.chunk.js",
+    "main.js.map": "/Viet-Sign-Language-Detection-Numbers/static/js/main.07e1f2f5.chunk.js.map",
+    "runtime-main.js": "/Viet-Sign-Language-Detection-Numbers/static/js/runtime-main.97832c8e.js",
+    "runtime-main.js.map": "/Viet-Sign-Language-Detection-Numbers/static/js/runtime-main.97832c8e.js.map",
+    "static/js/2.d200e498.chunk.js": "/Viet-Sign-Language-Detection-Numbers/static/js/2.d200e498.chunk.js",
+    "static/js/2.d200e498.chunk.js.map": "/Viet-Sign-Language-Detection-Numbers/static/js/2.d200e498.chunk.js.map",
+    "index.html": "/Viet-Sign-Language-Detection-Numbers/index.html",
+    "precache-manifest.7ad55285e94984fc6ea4c89106826177.js": "/Viet-Sign-Language-Detection-Numbers/precache-manifest.7ad55285e94984fc6ea4c89106826177.js",
+    "service-worker.js": "/Viet-Sign-Language-Detection-Numbers/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Viet-Sign-Language-Detection-Numbers/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d200e498.chunk.js.LICENSE.txt": "/Viet-Sign-Language-Detection-Numbers/static/js/2.d200e498.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97832c8e.js",
+    "static/js/2.d200e498.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.07e1f2f5.chunk.js"
+  ]
+}
